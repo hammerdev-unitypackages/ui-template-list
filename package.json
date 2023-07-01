@@ -1,0 +1,22 @@
+{
+  "name": "com.hammerdev.ui-template-list",
+  "version": "0.1.0",
+  "displayName": "Unity Ui Template List",
+  "description": "Helper for display lists of UI templates",
+  "unity": "2019.1",
+  "documentationUrl": "https://github.com/hammerdev-unitypackages/ui-template-list",
+  "changelogUrl": "https://github.com/hammerdev-unitypackages/ui-template-list",
+  "licensesUrl": "https://github.com/hammerdev-unitypackages/ui-template-list",
+  "dependencies": { },
+ "keywords": [
+    "UI",
+    "Unity UI",
+    "UI Template",
+    "Unity List"
+  ],
+  "author": {
+    "name": "Daniel Carlos",
+    "email": "daniel.hammerdev@gmail.com",
+    "url": "https://github.com/hammerdev-unitypackages/ui-template-list"
+  }
+}
